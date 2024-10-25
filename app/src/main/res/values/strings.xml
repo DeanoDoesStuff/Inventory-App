@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="delete">Delete</string>
+    <string name="item_name">Item Name</string>
+    <string name="inventory_list">Inventory List</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sending_sms_notification">Sending SMS notification...</string>
+    <string name="quantity_0">Quantity: 0</string>
+</resources>
